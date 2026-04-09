@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.*
+
+# Python
+_pycache_/
+*.pyc
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
