@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables (Sensitive)
+.env
+.env.local
+
+# Database
+rag_app.db
+db/
+chroma_db/
+instance/
+
+# Uploads & Temp
+temp_*
+uploads/
+document_insights.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
